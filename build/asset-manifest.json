@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tulpar34/test/static/css/main.7064deb2.css",
+    "main.js": "/tulpar34/test/static/js/main.21c21ef7.js",
+    "index.html": "/tulpar34/test/index.html",
+    "main.7064deb2.css.map": "/tulpar34/test/static/css/main.7064deb2.css.map",
+    "main.21c21ef7.js.map": "/tulpar34/test/static/js/main.21c21ef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.21c21ef7.js"
+  ]
+}
